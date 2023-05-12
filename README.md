@@ -1,5 +1,5 @@
 # Reverse Stable Diffusion
-## In this Project we are exploring the might of AI.
+## In this Project we are exploring the might of Stable Diffusion.
 
 <b>Stable Diffusion</b> is an AI text-to-image system that can generate images from textx Prompts. It utilizes a diffusion model, that is a type of neural network that learns how to remove noise from images.
 
