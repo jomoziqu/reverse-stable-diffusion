@@ -7,3 +7,4 @@ This project on <b>Reverse Stable Diffusion</b> is an AI image-to-text system; t
 
 In this project we are using a certain Pre-trained model <b>CLIP ( Contrastive Language-Image Pre-training)</b> from OpenAI.
  - So its a model trained on large datasets of images and captions;the idea is to associate the images with their captions, allowing it    to generate caption from new images.
+![generated](https://github.com/jomoziqu/reverse-stable-diffusion/assets/67217808/04d7bb92-2f36-4c8f-985c-f3a2e963e78a)
